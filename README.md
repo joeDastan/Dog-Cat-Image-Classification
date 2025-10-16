@@ -3,9 +3,10 @@ In This Project I Create And Compare 3 Models For Image Classification. A Genera
 
 The Code Consist Of One Dataset Called Cifar10 From keras And 3 ANN Models To Determine How We Can Enhance Accuracy Of a Model.
 
+<img width="472" height="79" alt="cifar10DogCat" src="https://github.com/user-attachments/assets/9c11bdb0-73ed-450b-ae0d-e9d60ed45033" />
+
 First Model Is A General Purpose Simple CNN Model That You Can Find On Tensorflow Webstie.
 It Will Train And Validate On All Cifar10 Images.
-<img width="472" height="79" alt="cifar10DogCat" src="https://github.com/user-attachments/assets/9c11bdb0-73ed-450b-ae0d-e9d60ed45033" />
 
 The Second Model Is Same CNN Model Optimized For Dog And Cat Images.
 Meaning It Only Gets Cifar10 Cat And Dog Images For Input And Has Only Two Categories For Output.
